@@ -59,3 +59,4 @@ A aplicação expõe os seguintes endpoints REST:
 `POST api/v1/assistant?userMessage=Qual o valor dos modelos disponiveis?`
 
 **Resposta:**
+`A cotação para o modelo fast com 50 tokens fica em R$ 7875,00 (já incluindo a taxa de uso de 5%).`
